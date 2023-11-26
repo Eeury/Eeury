@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eeury
-- 👀 I’m interested in ...python, Data science, machine learning and AI
-- 🌱 I’m currently learning ...python basics
-- 💞️ I’m looking to collaborate on ...Can collaborate on any python project
+- 👀 Python, php and ML
+- 🌱 Javascript
+- 💞️ Can collaborate on any projects  and challenges that can help and outgrow my skills 
 - 📫 How to reach me ...
 
 <!---
